@@ -1,0 +1,11 @@
+git command line practice
+Name: Wynter
+Date: 02/03/2026
+This file was added and committed using the terminal.
+cd Desktop/freshman-git-practice
+git init
+git remote add origin https://github.com/whawkins3/freshman-git-practice.git
+git add .
+git commit -m "Add initial files from command line"
+git branch -M main
+git push -u origin main
